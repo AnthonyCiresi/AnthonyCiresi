@@ -10,11 +10,11 @@
 
 <h2>📜 Certifications</h2>
 
-(Coming Soon)
+CompTia Security +
 
 <h2> 🤳 Connect with me:</h2>
 
-(Coming Soon)
+(https://www.linkedin.com/in/anthony-ciresi-60bb28316/)
 
 
 
