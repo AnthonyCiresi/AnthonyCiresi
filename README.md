@@ -1,16 +1,13 @@
-<h1>Hi, I'm Anthony! <br/><a href="[https://github.com/AnthonyCiresi]">Aspiring Cybersecurity & Network Engineer</a> <a href="[https://www.linkedin.com/in/anthony-ciresi-60bb28316/]"></a>
+<h1>Hi, I'm Anthony Ciresi! <br/><a href="[https://github.com/AnthonyCiresi]">Aspiring Cybersecurity & Network Engineer</a> <a href="[https://www.linkedin.com/in/anthony-ciresi-60bb28316/]"></a>
 
-<h2>📀 Software Development Projects:</h2>
+<h2>💡 Recent Projects:</h2>
 
-(Coming Soon)
-
-<h2>💻 Cyber Security Projects:</h2>
-
-(Coming Soon)
+Infrastructure Monitoring & Network Security Lab 🧪
 
 <h2>📜 Certifications</h2>
 
 CompTia Security +
+CompTia Network + (In Progress)
 
 <h2> 🤳 Connect with me:</h2>
 
