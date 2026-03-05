@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="[https://github.com/AnthonyCiresi]">Programmer</a>, <a href="[https://www.linkedin.com/in/anthony-ciresi-60bb28316/]">Cybersecurity Professional</a>,
+<h1>Hi, I'm Anthony! <br/><a href="[https://github.com/AnthonyCiresi]">Aspiring Cybersecurity & Network Engineer</a>, <a href="[https://www.linkedin.com/in/anthony-ciresi-60bb28316/]">Cybersecurity Professional</a>,
 
 <h2>📀 Software Development Projects:</h2>
 
