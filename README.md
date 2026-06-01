@@ -2,7 +2,7 @@
 
 <h2>💡 Recent Projects:</h2>
 
-Infrastructure Monitoring & Network Security Lab 🧪
+[Infrastructure Monitoring & Network Security Lab](https://github.com/AnthonyCiresi/Security-Operations-Lab/tree/main)🧪
 
 <h2>📜 Certifications</h2>
 
