@@ -8,7 +8,7 @@ Infrastructure Monitoring & Network Security Lab 🧪
 
 CompTia Security +
 
-CompTia Network + (In Progress)
+CySA + (Expected 2026)
 
 <h2> 🤳 Connect with me:</h2>
 
